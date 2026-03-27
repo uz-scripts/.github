@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://uz-scripts.com/_next/image?url=%2Fimages%2Flogo.webp&w=128&q=75" alt="UZ Scripts" width="72" />
+  <img src="https://uz-scripts.com/images/logo.webp" alt="UZ Scripts" width="72" />
 
   <h3>UZ Scripts</h3>
 
@@ -17,12 +17,6 @@
 ---
 
 UZ Scripts delivers optimized, visually unique resources for FiveM roleplay servers. Every script is built with a focus on low resource usage, clean code architecture, and seamless integration across all major frameworks.
-
-- **0.01ms** idle — tested on 100+ player servers
-- **ESX · QBCore · Qbox** support out of the box
-- **Escrow protected** with extensive config coverage
-- **Free lifetime updates** included with every purchase
-- **15,000+** servers running UZ Scripts worldwide
 
 ---
 
