@@ -10,8 +10,9 @@
   <a href="https://uz-scripts.com/docs">Docs</a> ·
   <a href="https://discord.gg/C7usJ9FW7y">Discord</a> ·
   <a href="https://youtube.com/@uzscripts">YouTube</a> ·
-  <a href="https://cfxnatives.dev">CFX Natives</a>
-
+  <a href="https://cfxnatives.dev">CFX Natives</a> ·
+  <a href="https://taintless.dev">Taintless</a>
+  
 </div>
 
 ---
